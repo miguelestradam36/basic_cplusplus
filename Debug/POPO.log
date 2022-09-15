@@ -1,0 +1,16 @@
+﻿  Conversion_Temperaturas.cpp
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(36,28): error C2065: 'IDS_APP_TITLE': undeclared identifier
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(37,28): error C2065: 'IDC_POPO': undeclared identifier
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(45,54): error C2065: 'IDC_POPO': undeclared identifier
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(72,47): error C2065: 'IDI_POPO': undeclared identifier
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(75,27): error C2065: 'IDC_POPO': undeclared identifier
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(77,52): error C2065: 'IDI_SMALL': undeclared identifier
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(404,26): error C2065: 'IDM_ABOUT': undeclared identifier
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(404,26): error C2131: expression did not evaluate to a constant
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(404,26): message : a non-constant (sub-)expression was encountered
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(405,25): error C2065: 'IDD_ABOUTBOX': undeclared identifier
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(407,26): error C2065: 'IDM_EXIT': undeclared identifier
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(407,26): error C2131: expression did not evaluate to a constant
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(407,26): message : a non-constant (sub-)expression was encountered
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(404,1): error C2051: case expression not constant
+C:\Users\Dell\Desktop\Primera_Tarea\Conversion_Temperaturas.cpp(407,1): error C2051: case expression not constant
